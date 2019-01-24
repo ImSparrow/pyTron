@@ -1,1 +1,1 @@
-My first pygames
+My first pygame
